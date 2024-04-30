@@ -27,6 +27,6 @@ significant alpha value that can be derived using the Capital Asset Pricing Mode
 ## Data
 
 The data was downloaded from the Bank of Canada website. 
-It has been included in this repository in `analysis/tbill_all.csv`.
+It has been included in this repository in `tbill_all.csv`.
 Some of the intial rows were removed using Excel for easier data cleaning with Pandas.
 Please note that the column 'V80691345' represents the 6-month t-bill yield that is used in our empirical research. The data is cleaned by the Python Juypter notebook when it is run.
